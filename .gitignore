@@ -6,3 +6,4 @@ Coloring_Gray_Pictures/checkpoints/
 *.tar.gz
 __pycache__/
 .ipynb_checkpoints/
+VAE/data/
