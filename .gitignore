@@ -1,0 +1,8 @@
+Semantic_Segmentation_FCN_UNet/data/
+Coloring_Gray_Pictures/Dataset/
+Coloring_Gray_Pictures/checkpoints/
+*.pth
+*.pt
+*.tar.gz
+__pycache__/
+.ipynb_checkpoints/
